@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Here you will find some of my free Blender Cycles shaders. When you use them and you find bugs, feel free to modifiy, share and contribute to this shader repository.
+Here you will find some of my free Blender Cycles shaders.  I build them by using a PBR workflow, therefore they should look fine within most of your scenes - I hope.  If you like them let me know.  Feel free to modifiy, share and contribute to this shader repository. 
 
-I didn't includes any HDRs. Please use your own HDRs to see the shader's look.
+I don't include any HDRs.  Please use your own HDRs to get the shader's look.
 
 ## Shaders
 
